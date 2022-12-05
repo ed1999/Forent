@@ -1,6 +1,5 @@
 <x-app-layout>
 
-    @livewire('modal')
     
     {{-- Portada --}}
 
